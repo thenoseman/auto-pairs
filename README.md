@@ -1,3 +1,11 @@
+ATTENTION!
+==========
+
+This is my "fork" of auto-pairs.  
+Better go and use [the original](https://github.com/jiangmiao/auto-pairs)!
+
+This adds an option to skip auto-.pairing when directly before a word-character.
+
 Auto Pairs
 ==========
 Insert or delete brackets, parens, quotes in pair.
